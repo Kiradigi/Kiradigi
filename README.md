@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Kiradigi</h2>
-<h3 align="center">I am a university student, I love art and programming, so I try to combine it. Passionate about web design since I was 14 years old and interested in learning new technologies.</h3>
+<h3 align="center">I am a university student, I love art and programming so i try to combine it. Passionate about web design since i was 14 years old and interested in learning new tech.</h3>
 
 - 📫 How to reach me: **pandasoftne@gmail.com**
 - ⚡ Hobbies: **When I have free time i like to emulate PS2 games on my PC and play**
